@@ -1,0 +1,44 @@
+C:\Users\gmalone\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\gmalone\source\repos\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\gmalone\source\repos\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\gmalone\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\gmalone\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\gmalone\source\repos\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\gmalone\source\repos\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\gmalone\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\gmalone\source\repos\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\gmalone\source\repos\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\gmalone\source\repos\Calculator\Calculator\obj\Debug\Calculator.pdb
+H:\Students_Folder\Grant Malone\Visual Studio Assests\Calculator\Calculator\bin\Debug\Calculator.exe.config
+H:\Students_Folder\Grant Malone\Visual Studio Assests\Calculator\Calculator\bin\Debug\Calculator.exe
+H:\Students_Folder\Grant Malone\Visual Studio Assests\Calculator\Calculator\bin\Debug\Calculator.pdb
+H:\Students_Folder\Grant Malone\Visual Studio Assests\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+H:\Students_Folder\Grant Malone\Visual Studio Assests\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+H:\Students_Folder\Grant Malone\Visual Studio Assests\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+H:\Students_Folder\Grant Malone\Visual Studio Assests\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+H:\Students_Folder\Grant Malone\Visual Studio Assests\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+H:\Students_Folder\Grant Malone\Visual Studio Assests\Calculator\Calculator\obj\Debug\Calculator.exe
+H:\Students_Folder\Grant Malone\Visual Studio Assests\Calculator\Calculator\obj\Debug\Calculator.pdb
+H:\Students_Folder\Grant Malone\Visual Studio Assests\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+Y:\Students_Folder\Grant Malone\Visual Studio Assets\Calculator\Calculator\bin\Debug\Calculator.exe.config
+Y:\Students_Folder\Grant Malone\Visual Studio Assets\Calculator\Calculator\bin\Debug\Calculator.exe
+Y:\Students_Folder\Grant Malone\Visual Studio Assets\Calculator\Calculator\bin\Debug\Calculator.pdb
+Y:\Students_Folder\Grant Malone\Visual Studio Assets\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+Y:\Students_Folder\Grant Malone\Visual Studio Assets\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+Y:\Students_Folder\Grant Malone\Visual Studio Assets\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+Y:\Students_Folder\Grant Malone\Visual Studio Assets\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+Y:\Students_Folder\Grant Malone\Visual Studio Assets\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+Y:\Students_Folder\Grant Malone\Visual Studio Assets\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+Y:\Students_Folder\Grant Malone\Visual Studio Assets\Calculator\Calculator\obj\Debug\Calculator.exe
+Y:\Students_Folder\Grant Malone\Visual Studio Assets\Calculator\Calculator\obj\Debug\Calculator.pdb
+H:\Students_Folder\Grant Malone\Visual Studio Assets\Calculator\Calculator\bin\Debug\Calculator.exe.config
+H:\Students_Folder\Grant Malone\Visual Studio Assets\Calculator\Calculator\bin\Debug\Calculator.exe
+H:\Students_Folder\Grant Malone\Visual Studio Assets\Calculator\Calculator\bin\Debug\Calculator.pdb
+H:\Students_Folder\Grant Malone\Visual Studio Assets\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+H:\Students_Folder\Grant Malone\Visual Studio Assets\Calculator\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+H:\Students_Folder\Grant Malone\Visual Studio Assets\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+H:\Students_Folder\Grant Malone\Visual Studio Assets\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+H:\Students_Folder\Grant Malone\Visual Studio Assets\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+H:\Students_Folder\Grant Malone\Visual Studio Assets\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+H:\Students_Folder\Grant Malone\Visual Studio Assets\Calculator\Calculator\obj\Debug\Calculator.exe
+H:\Students_Folder\Grant Malone\Visual Studio Assets\Calculator\Calculator\obj\Debug\Calculator.pdb
